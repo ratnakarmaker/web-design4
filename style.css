@@ -1,0 +1,55 @@
+.nav-img img{
+    width: 50px;
+}
+.header{
+    background-color: #24CCCC;
+}
+h1{
+    color: white;
+}
+.test-red{
+    color: tomato;
+}
+.banner-btnn button{
+    padding: 9px 20px;
+    border-radius: 25px;
+}
+/* -------------------about part---------------- */
+.text-sky{
+    color: #24cccc;
+}
+.parr-gray{
+    color: gray;
+}
+.text-white{
+    color: white;
+}
+
+/* ----------footer-part----------- */
+.card{
+    background-color: #24CCCC;
+    border: 0px;
+    border-radius: 0px;
+}
+.card-header{
+    border-bottom: 0px;
+}
+.round{
+    background-color: red;
+    position: relative;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+}
+.round p i{
+    position: absolute;
+    padding: 10px 10px;
+    top:5%;
+    left: 5%;
+}
+.other{
+    background-color: #24CCCC;
+}
+.round-text{
+    margin-left: 60px;
+}
